@@ -8,6 +8,15 @@ The benefit of using it instead of replaying a single macro is:
 
 ## Usage
 
-* Go to 
-
-Use the program at your own risk. If you don't trust me, do not use the program. If you'd like to view the source code of this project, look at [the script](https://github.com/Beatso/SimpleAutoClicker/blob/master/main.ahk) in this GitHub repository. If you'd like to use an uncompiled version of the code rather than the .exe file, see [How can I run the uncompiled program in AHK?](#how-can-i-run-the-uncompiled-program-in-ahk) below. I take no liability for any damage caused by the program. 
+* Download the latest release Raid farm macro [HERE](https://github.com/KartulUdus/RaidFarmMacro/releases/) and Open it
+* Open Minecraft and press Ctrl + j. The app will confirm it's connected to minecraft now
+* Optionally change your killing period and press OK, but I found good results with the default 40 seconds
+* In Minecraft press F3 + P and make sure "Pause on lost focus" is disabled
+* Head to your Raid farm with the "Bad omen" effect 
+* Make sure you have default controls (left mosue for attack, right to use and wasd for movement)
+* Place food in your offhand 
+* Look at your killing area at a right angle (-90° , -0° or 90°), looking up at -54°
+* Press Ctrl+Shift+j to start the macro
+* Press Alt+Tab to change focus from Minecraft to some other app
+* Enjoy browsing the web or doing other stuff while your raid farm is running
+* Once done or if you want to pause to craft emerald blocks, use Ctrl+Shift+J to pause or Ctrl+Alt+J to quit
