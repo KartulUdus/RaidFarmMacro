@@ -16,6 +16,7 @@ The benefit of using it instead of replaying a single macro is:
 * Make sure you have default controls (left mosue for attack, right to use and wasd for movement)
 * Place food in your offhand 
 * Look at your killing area at a right angle (-90° , -0° or 90°), looking up at -54°
+* Make sure the spawning platform is flooded when starting
 * Press Ctrl+Shift+j to start the macro
 * Press Alt+Tab to change focus from Minecraft to some other app
 * Enjoy browsing the web or doing other stuff while your raid farm is running
